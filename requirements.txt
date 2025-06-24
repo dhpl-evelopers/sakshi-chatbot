@@ -1,5 +1,6 @@
 flask
 bcrypt
+python-dotenv
 openai
 azure-search-documents
 gunicorn
