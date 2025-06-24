@@ -1,0 +1,10 @@
+flask
+openai
+azure-search-documents
+gunicorn
+uvicorn
+
+Flask
+requests
+gunicorn
+authlib
